@@ -1,6 +1,6 @@
 .block {
-	background-color: grey;
-	width: 200px;
-	height: 150px;
-
+	background-color:#bbbbbb;
+	border: 1px solid black;
+	width: 280px;
+	height: 180px;
 }

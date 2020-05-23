@@ -1,7 +1,9 @@
 .blocks {	
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	align-content: space-around;
 	padding: 20px;
+	display: grid;
+	-ms-grid-columns: repeat(auto-fit, 300px);
+    -ms-grid-rows: repeat(auto-fit, 200px);
+	grid-template-rows: repeat(auto-fit, 200px);
+	grid-template-columns: repeat(auto-fit, 300px);
+
 }
