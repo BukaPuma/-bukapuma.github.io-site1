@@ -1,0 +1,11 @@
+@import "./common.blocks/normalize.css";
+@import "./common.blocks/caption.css";
+@import "./blocks/block/block.css";
+@import "./blocks/blocks.css";
+@import "./main/main.css";
+@import "./header/header.css";
+@import "./footer/footer.css";
+@import "./nav/nav.css";
+@import "./nav/__element/_green/nav__element_green.css";
+@import "./nav/__element/_red/nav__element_red.css";
+@import "./nav/__element/nav__element.css";
